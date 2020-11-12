@@ -11,3 +11,5 @@ Via the seaborn library, the chosen data from previously selected dataframe, is 
 Via the bokeh library, the data is futher more interactively represented, yet like dots on a graph, but can be hovered over
 and each dot showing information about the player it represents. When the program is being run, this library creates new 
 html page, where the interactive picture is presented. 
+
+*This description applies to the file football.ipynb
