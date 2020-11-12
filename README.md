@@ -1,4 +1,4 @@
-# FootbalData
+# FootballData
 A Jupyter Notebook about Football data analysis 
 
 A data analysis and visualization, over some data with Names and other characteristics of Football players.
