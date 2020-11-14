@@ -1,7 +1,7 @@
 # FootballData
 A Jupyter Notebook about Football data analysis 
 
-A data analysis and visualization, over some data with Names and other characteristics of Football players.
+A data analysis and visualization, over some data with names and other characteristics of Football players.
 The data analysis is performed in Jupyter Notebook and uses the Python libraries pandas, seaborn and bokeh.
 
 Pandas library is used to split the data into different dataframes, so more detailed analysis can further be performed.
